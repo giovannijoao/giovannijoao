@@ -1,4 +1,4 @@
-# ~João Giovanni
+# João Giovanni
 
 ## Olá pessoal 👋
 Sou apaixonado por desenvolvimento web e sou um FullStack Developer :computer:
